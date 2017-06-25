@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Day10 HW</string>
+    <string name="six">6</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="back">back</string>
+    <string name="enter">enter</string>
+    <string name="textView2">txv2</string>
+    <string name="textView8">txv8</string>
+    <string name="textView9">txv9</string>
+    <string name="textView10">txv10</string>
+    <string name="textView11">txv11</string>
+    <string name="textView6">txv6</string>
+    <string name="textView3">txv3</string>
+    <string name="textView4">txv4</string>
+    <string name="textView5">txv5</string>
+</resources>
